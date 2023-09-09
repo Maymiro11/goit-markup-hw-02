@@ -8,3 +8,10 @@ color:#404BBF
 address{
     font-style: normal;
 }
+.contacts-tel:hover,
+.contacts-tel:focus{
+    color:#404BBF
+}
+.contacts-tel{
+    color:#434455; 
+}
