@@ -139,7 +139,7 @@ line-height: 1.5em;
 letter-spacing: 0.03em;
 }
    /*=========Footer==============  */
-   footer{
+   .footer{
     background: var(--NAVY-BLUE, #2E2F42);
    }
    .footer-link{
